@@ -1,0 +1,7 @@
+
+myApp.controller("aboutCntrl", function ($scope, $rootScope) {
+        $rootScope.closeSideNav();
+        $rootScope.pageHeading = "About";
+        $rootScope.showHeader = true;
+        $rootScope.showMenuIcon = true;
+});

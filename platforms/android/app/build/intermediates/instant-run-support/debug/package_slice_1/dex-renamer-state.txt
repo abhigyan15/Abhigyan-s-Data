@@ -1,0 +1,4 @@
+#Sat May 05 14:21:37 PDT 2018
+base.0=C\:\\Fatema\\NewsApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=C\:\\Fatema\\NewsApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex
